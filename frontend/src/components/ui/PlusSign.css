@@ -1,0 +1,22 @@
+.outer{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle{
+    height: 50px;
+    width: 50px;
+    font-size: 1.3rem;
+    font-weight: 500;
+    background-color: rgba(150, 149, 149, 0.436);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    cursor: pointer;
+}
